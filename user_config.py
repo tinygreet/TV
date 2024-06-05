@@ -13,11 +13,11 @@ favorite_list = [
 open_online_search = False
 favorite_page_num = 5
 default_page_num = 3
-urls_limit = 5
+urls_limit = 3
 open_sort = True
 response_time_weight = 0.5
 resolution_weight = 0.5
-recent_days = 30
+recent_days = 10
 ipv_type = "ipv4"
 domain_blacklist = ["epg.pw"]
 url_keywords_blacklist = []
@@ -28,4 +28,4 @@ subscribe_urls = [
     "https://m3u.ibert.me/txt/j_iptv.txt",
 ]
 open_multicast = True
-region_list = ["重庆","四川","云南","广西","广东","湖北"]
+region_list = ["all"]
