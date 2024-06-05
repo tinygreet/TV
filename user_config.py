@@ -28,4 +28,4 @@ subscribe_urls = [
     "https://m3u.ibert.me/txt/j_iptv.txt",
 ]
 open_multicast = True
-region_list = ["重庆""四川""云南"]
+region_list = ["重庆","四川","云南","广西","广东","湖北"]
