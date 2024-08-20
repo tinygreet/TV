@@ -1,10 +1,18 @@
-Name: 甘肃卫视, URL: http://202.100.46.58:9901/tsfile/live/1035_1.m3u8, Date: None, Resolution: None, Response Time: 496ms
-Name: 陕西卫视, URL: http://202.100.46.58:9901/tsfile/live/1017_1.m3u8, Date: None, Resolution: None, Response Time: 497ms
-Name: 内蒙古卫视, URL: http://124.94.193.136:9902/tsfile/live/0109_1.m3u8, Date: None, Resolution: None, Response Time: 531ms
-Name: 河南卫视, URL: http://124.94.193.136:9902/tsfile/live/0139_1.m3u8, Date: None, Resolution: None, Response Time: 527ms
-Name: 贵州卫视, URL: http://202.100.46.58:9901/tsfile/live/1034_1.m3u8, Date: None, Resolution: None, Response Time: 503ms
-Name: 广东卫视, URL: http://124.94.193.136:9902/tsfile/live/0125_1.m3u8, Date: None, Resolution: None, Response Time: 522ms
-Name: 吉林卫视, URL: http://124.94.193.136:9902/tsfile/live/0116_1.m3u8, Date: None, Resolution: None, Response Time: 525ms
-Name: 辽宁卫视, URL: http://118.81.53.140:9999/tsfile/live/0121_1.m3u8, Date: None, Resolution: None, Response Time: 504ms
-Name: CCTV16, URL: http://123.189.36.155:9901/tsfile/live/1027_1.m3u8, Date: None, Resolution: None, Response Time: 587ms
-Name: CCTV6, URL: http://202.100.46.58:9901/tsfile/live/1005_1.m3u8, Date: None, Resolution: None, Response Time: 2102ms
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f17532436d0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/903e55d2aa08d7b74ea747ea531fc140
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f17521210d0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/903e55d2aa08d7b74ea747ea531fc140
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1750f5c610>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/903e55d2aa08d7b74ea747ea531fc140
+Name: 海南卫视, URL: https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 3483ms
+Name: 内蒙古卫视, URL: http://124.94.193.136:9902/tsfile/live/0109_1.m3u8, Date: None, Resolution: None, Response Time: 1213ms
+Name: 甘肃卫视, URL: http://202.100.46.58:9901/tsfile/live/1035_1.m3u8, Date: None, Resolution: None, Response Time: 546ms
+Name: 河南卫视, URL: http://124.94.193.136:9902/tsfile/live/0139_1.m3u8, Date: None, Resolution: None, Response Time: 1239ms
+Name: 贵州卫视, URL: http://202.100.46.58:9901/tsfile/live/1034_1.m3u8, Date: None, Resolution: None, Response Time: 521ms
+Name: 广东卫视, URL: http://124.94.193.136:9902/tsfile/live/0125_1.m3u8, Date: None, Resolution: None, Response Time: 467ms
+Name: 安徽卫视, URL: http://115.149.139.141:10001/tsfile/live/1025_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 494ms
+Name: 吉林卫视, URL: http://124.94.193.136:9902/tsfile/live/0116_1.m3u8, Date: None, Resolution: None, Response Time: 1253ms
+Name: 湖北卫视, URL: http://115.149.139.141:10001/tsfile/live/1027_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 511ms
+Name: 陕西卫视, URL: http://202.100.46.58:9901/tsfile/live/1017_1.m3u8, Date: None, Resolution: None, Response Time: 519ms
+Name: CCTV17, URL: https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 1759ms
+Name: CCTV8, URL: https://live.v1.mk/api/ghyx.php?id=CCTV8HD_6000, Date: 03-21-2023, Resolution: None, Response Time: 1748ms
+Name: CCTV16, URL: http://123.189.36.155:9901/tsfile/live/1027_1.m3u8, Date: None, Resolution: None, Response Time: 509ms
+Name: CCTV6, URL: http://202.100.46.58:9901/tsfile/live/1005_1.m3u8, Date: None, Resolution: None, Response Time: 536ms
+Name: CCTV6, URL: https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 1782ms
