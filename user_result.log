@@ -1,4 +1,6 @@
-Name: 甘肃卫视, URL: http://202.100.46.58:9901/tsfile/live/1035_1.m3u8, Date: None, Resolution: None, Response Time: 502ms
-Name: 贵州卫视, URL: http://202.100.46.58:9901/tsfile/live/1034_1.m3u8, Date: None, Resolution: None, Response Time: 1536ms
-Name: 陕西卫视, URL: http://202.100.46.58:9901/tsfile/live/1017_1.m3u8, Date: None, Resolution: None, Response Time: 504ms
-Name: CCTV6, URL: http://202.100.46.58:9901/tsfile/live/1005_1.m3u8, Date: None, Resolution: None, Response Time: 1540ms
+Name: 北京卫视, URL: http://124.128.73.58:9901/tsfile/live/0122_1.m3u8, Date: None, Resolution: None, Response Time: 351ms
+Name: CCTV6, URL: http://202.100.46.58:9901/tsfile/live/1005_1.m3u8, Date: None, Resolution: None, Response Time: 357ms
+Name: 陕西卫视, URL: http://202.100.46.58:9901/tsfile/live/1017_1.m3u8, Date: None, Resolution: None, Response Time: 353ms
+Name: 青海卫视, URL: http://124.128.73.58:9901/tsfile/live/0140_1.m3u8, Date: None, Resolution: None, Response Time: 333ms
+Name: 甘肃卫视, URL: http://202.100.46.58:9901/tsfile/live/1035_1.m3u8, Date: None, Resolution: None, Response Time: 352ms
+Name: 贵州卫视, URL: http://202.100.46.58:9901/tsfile/live/1034_1.m3u8, Date: None, Resolution: None, Response Time: 356ms
