@@ -1,9 +1,2 @@
-Name: 新疆卫视, URL: http://121.24.98.226:8090/hls/61/index.m3u8, Date: None, Resolution: None, Response Time: 431ms
-Name: 甘肃卫视, URL: http://111.61.236.247:9081/hls/54/index.m3u8, Date: None, Resolution: None, Response Time: 531ms
-Name: 山西卫视, URL: http://121.24.98.226:8090/hls/35/index.m3u8, Date: None, Resolution: None, Response Time: 473ms
-Name: 河北卫视, URL: http://121.24.98.226:8090/hls/25/index.m3u8, Date: None, Resolution: None, Response Time: 425ms
-Name: 东南卫视, URL: http://121.24.98.226:8090/hls/36/index.m3u8, Date: None, Resolution: None, Response Time: 467ms
-Name: 安徽卫视, URL: http://121.24.98.226:8090/hls/81/index.m3u8, Date: None, Resolution: None, Response Time: 418ms
-Name: CCTV8, URL: http://121.24.98.226:8090/hls/16/index.m3u8, Date: None, Resolution: None, Response Time: 1032ms
-Name: CCTV11, URL: http://111.61.236.247:9081/hls/11/index.m3u8, Date: None, Resolution: None, Response Time: 525ms
-Name: CCTV4, URL: http://121.24.98.226:8090/hls/12/index.m3u8, Date: None, Resolution: None, Response Time: 425ms
+Name: 甘肃卫视, URL: http://111.61.236.247:9081/hls/54/index.m3u8, Date: None, Resolution: None, Response Time: 676ms
+Name: CCTV11, URL: http://111.61.236.247:9081/hls/11/index.m3u8, Date: None, Resolution: None, Response Time: 654ms
